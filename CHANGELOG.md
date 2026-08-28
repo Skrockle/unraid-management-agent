@@ -9,6 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2026.08.28] - 2026-08-28
+
+### Changed
+
+- **Skrockle release** — rebased the fork on upstream v2026.08.03 and changed
+  the plugin manifest's project, download, and update URLs to the Skrockle
+  repository. This release is intentionally newer than upstream so existing
+  installations can upgrade without a downgrade.
+
 ## [2026.08.03] - 2026-08-26
 
 ### Fixed
